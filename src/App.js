@@ -19,7 +19,7 @@ function App() {
        <Header />
 
         <Switch>
-          <Route exact path='/'>
+          <Route exact path='/youtube-clone/'>
             <div className="app_page">
             <Sidebar />
             <RecommendedVideos />
